@@ -1,6 +1,6 @@
-<h1 align="center">Hey there! 👋 I'm Yashashwini Reddy</h1>
+<h1 align="center">Hey there! I'm Yashashwini Reddy</h1>
 
-<h3 align="center">🎓 Final Year B.Tech Student | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Final Year B.Tech Student | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Cloud Technologies.
