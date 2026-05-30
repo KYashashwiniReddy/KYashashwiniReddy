@@ -61,9 +61,7 @@ Machine Learning solution for detecting fraudulent transactions.
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KYashashwiniReddy&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KYashashwiniReddy&show_icons=true&theme=radical)
 
 ---
 
