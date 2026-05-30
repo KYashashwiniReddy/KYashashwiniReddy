@@ -59,6 +59,11 @@ Machine Learning solution for detecting fraudulent transactions.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kathi_Yashashwini?theme=dark\&font=Nunito)
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KYashashwiniReddy&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🌐 Connect With Me
 
